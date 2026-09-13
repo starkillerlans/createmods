@@ -1,0 +1,29 @@
+filename = 'CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar'
+name = 'Create: FastSchematicCannon'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-2.6.1-neoforge'
+
+[download]
+hash = '43488e4adc9ec92f9914bd11f10251861850adbffa3e803fdb98f671d65324aa4de72da65a3ece370da272031fcb11683418dddb6f85f6349930e6dce1f7914f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DebMSCVn/versions/bG6IJw6J/CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'DebMSCVn'
+version = 'bG6IJw6J'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VYRu7qmG'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
