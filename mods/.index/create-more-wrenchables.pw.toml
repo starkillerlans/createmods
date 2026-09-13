@@ -1,0 +1,18 @@
+filename = 'createmorewrenchables-1.0.0.jar'
+name = 'Create: More Wrenchables'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neo1.21.1-1.0.0'
+
+[download]
+hash = '745e35dad398dca62e6479a7814669ad018aca233a85580e81ce5e8ea00476fc337ada94d1c7674579d44076ae6e6954796875146945aa15ca1319a99e0df794'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JKRAHJGf/versions/1EOjy9Ad/createmorewrenchables-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'JKRAHJGf'
+version = '1EOjy9Ad'

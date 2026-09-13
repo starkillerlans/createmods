@@ -1,0 +1,25 @@
+filename = 'create-renewable-brass-1.0.2.jar'
+name = 'Create: Renewable Brass'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2+mod'
+
+[download]
+hash = '917bbb6842f032a9f99e40083817fff90ed1c195d197eb074b1f18b097036e9c65122a538d79825710ef10f13c74dd6f503c8c1b9227862138cda6591aff13b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AqQzrKJo/versions/Nlbe2Hef/create-renewable-brass-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'AqQzrKJo'
+version = 'Nlbe2Hef'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KKlx33Ch'
+type = 'OPTIONAL'

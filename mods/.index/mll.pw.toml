@@ -1,0 +1,25 @@
+filename = 'mll-1.0.jar'
+name = 'Create: Manufacturable Lapis Lazuli'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = '0b5aa07f5296014be1b907cb804b3da24f08cbe40caa4ff7dc0ad4ab9f24e77f8ea0a83b7a80043b9bc75c4672939219bb56bdf900edd68c9a7ddb5ed0f1bed0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vrNwRK7O/versions/PJNGooem/mll-1.0.jar'
+
+[update.modrinth]
+mod-id = 'vrNwRK7O'
+version = 'PJNGooem'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

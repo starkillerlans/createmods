@@ -1,0 +1,25 @@
+filename = 'create-stones-2.0.1.jar'
+name = 'Create: Stones'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.1+mod'
+
+[download]
+hash = 'dc2ff19f57f6a627fd1d924c97257b329047fb79d0f82eec481046ecd39d40e390a3abfb0c854551554182a8573b417fe64e40aaf2d4c1fb934e0e60e88cee6e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KKlx33Ch/versions/ndmghTMU/create-stones-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'KKlx33Ch'
+version = 'ndmghTMU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KKlx33Ch'
+type = 'OPTIONAL'
