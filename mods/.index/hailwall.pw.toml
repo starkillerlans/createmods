@@ -1,0 +1,18 @@
+filename = 'hailwall_1.0.3_neoforge_1.21.1.jar'
+name = 'HailWall'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = 'c8c1a31459e4a2a14d43789c9946cd82d1554c592f947cd9c8c7b8ce46a26bcc527669f504fea651617d5fb5f070d0a2502418b067fd7da205fcbebc47217d5b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/80oFcizV/versions/xLitGfud/hailwall_1.0.3_neoforge_1.21.1.jar'
+
+[update.modrinth]
+mod-id = '80oFcizV'
+version = 'xLitGfud'

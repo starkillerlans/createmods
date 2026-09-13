@@ -1,27 +1,27 @@
-filename = 'minecolonies-1.1.1383-1.21.1-snapshot.jar'
+filename = 'minecolonies-1.1.1387-1.21.1-snapshot.jar'
 name = 'MineColonies'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'minecolonies-1.1.1383-1.21.1-snapshot.jar'
+x-prismlauncher-version-number = 'minecolonies-1.1.1387-1.21.1-snapshot.jar'
 
 [download]
-hash = '4a27243c1ea259e1a25555494573bc4bec9413a7'
+hash = '07752c101305dde5e4621cda39b5d7607f614871'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8854687
+file-id = 8872247
 project-id = 245506
 
 [[x-prismlauncher-dependencies]]
-addonId = '303278'
+addonId = '527361'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '900364'
+addonId = '303278'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -29,9 +29,9 @@ addonId = '298744'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '522992'
+addonId = '900364'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '527361'
+addonId = '522992'
 type = 'REQUIRED'
