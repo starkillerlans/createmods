@@ -1,19 +1,19 @@
-filename = 'aero_player_tilt-0.1.3.jar'
+filename = 'aero_player_tilt-0.2.0.jar'
 name = 'Aeronautics Player Tilt'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'aero_player_tilt-0.1.3.jar'
+x-prismlauncher-version-number = 'aero_player_tilt-0.2.0.jar'
 
 [download]
-hash = '21c8e331947fdd3464601353589b5a6ed3011bff'
+hash = '5e48a6386fa582a03f084aafdb2e3467a41f9ac9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8818433
+file-id = 8882320
 project-id = 1681706
 
 [[x-prismlauncher-dependencies]]

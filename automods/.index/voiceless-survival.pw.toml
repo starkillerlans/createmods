@@ -1,0 +1,25 @@
+filename = 'Voiceless Survival-1.21.1-neoforge-2.0.1.jar'
+name = 'Voiceless Survival'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-2.0.1'
+
+[download]
+hash = '676c4809aebc04d9b33aa23d282bd9e4143b3f652c694b444a8bb6078ed8b05b2c2424edd18484a3ec95a58f53e6adf16c73d9db92d159c45b7416943b264bb7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JJ3q7W2X/versions/4jrtfbBA/Voiceless Survival-1.21.1-neoforge-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'JJ3q7W2X'
+version = '4jrtfbBA'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'og4KPYmA'
+type = 'OPTIONAL'
