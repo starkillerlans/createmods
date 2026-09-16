@@ -17,11 +17,11 @@ mod-id = 'T9PomCSv'
 version = 'U678xqle'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
+addonId = 'qy8EtCnG'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'qy8EtCnG'
+addonId = 'LNytGWDc'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
