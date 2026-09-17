@@ -1,18 +1,18 @@
-filename = 'KotlinLangForge-2.14.0-k2.4.20-3.0+neoforge.jar'
+filename = 'KotlinLangForge-2.14.1-k2.4.20-3.0+neoforge.jar'
 name = 'KotlinLangForge'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.14.0-k2.4.20-3.0+neoforge'
+x-prismlauncher-version-number = '2.14.1-k2.4.20-3.0+neoforge'
 
 [download]
-hash = 'e74440405ef05a0ad758f09adb88d953b31b3f82df6ff9e1b8646e0db56e5cd7a1e11ab2694898d76ad0a2d08f08f6b91e4f57fdc14d6a307536dfb497950d54'
+hash = '8d6faf1fa623529e794fb0429b96f71965843ea1876262c26cecf4fe17dd6e64334498f984cca487e3083881f0e917a26af3862b72e85a2d0d5a7225104355da'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1vrSzlao/versions/fkUvgYcW/KotlinLangForge-2.14.0-k2.4.20-3.0%2Bneoforge.jar'
+url = 'https://cdn.modrinth.com/data/1vrSzlao/versions/SRMod41B/KotlinLangForge-2.14.1-k2.4.20-3.0%2Bneoforge.jar'
 
 [update.modrinth]
 mod-id = '1vrSzlao'
-version = 'fkUvgYcW'
+version = 'SRMod41B'
