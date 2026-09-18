@@ -1,0 +1,25 @@
+filename = 'create-aeronautics-ultimatefactory-recipe-fix-0.1.jar'
+name = 'Create: Aeronautics/Ultimate Factory Recipe Fix'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1+mod'
+
+[download]
+hash = 'cd9c5b49fab4177deb5f14925f2c94fa47fe962230e2a4850f152d51e69ee6c2db8c3b90b243ace81a58130c905ff57e252ce18c20d6828cfd2e6dcb8689a4f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mFXRseBe/versions/NSN8DKNx/create-aeronautics-ultimatefactory-recipe-fix-0.1.jar'
+
+[update.modrinth]
+mod-id = 'mFXRseBe'
+version = 'NSN8DKNx'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'N9QToVpw'
+type = 'REQUIRED'

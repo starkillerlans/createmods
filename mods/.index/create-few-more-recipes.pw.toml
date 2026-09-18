@@ -1,0 +1,25 @@
+filename = 'Create Few More Recipes 1.2.0-1.21.1.jar'
+name = 'Create: Few More Recipes'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '82abe99134a34152f75fe24d885c7af994cf89d8d87b4415042cd7371b721683ebfe171a73e04ef7bc70f47fc0f39830241c7c063d72f74a40f738bf353b67f6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LL90W5sb/versions/nasE7jWd/Create Few More Recipes 1.2.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'LL90W5sb'
+version = 'nasE7jWd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Xbc0uyRg'
+type = 'REQUIRED'
