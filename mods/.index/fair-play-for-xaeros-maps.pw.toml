@@ -1,6 +1,6 @@
-filename = 'xaero-fair-play-0.1.6.jar'
+filename = 'xaero-fair-play-0.1.7.jar'
 name = "Fair Play for Xaero's Maps"
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.7.10',
@@ -40,25 +40,25 @@ x-prismlauncher-mc-versions = [
     '26.1',
     '26.1.1',
     '26.1.2',
-    '26.2'
+    '26.3'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.6'
+x-prismlauncher-version-number = '0.1.7'
 
 [download]
-hash = 'd85fd6740796038b1ab798fa6c14a351f9e9eaffc63b1f22474a4c2b0faf9f216adadc09cbf1caae8339e2d518195e836203b72c2ba8efcf8901785bf8520963'
+hash = 'e6dc472cf48ec189a526d521f296a196301185be993636eddfb90f84e86c369e9fb2f307285a417173adb665f6e0dfb43e263694ccc22f13f61e10b5712f4bae'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/KG3gDWV3/versions/oilrzUEX/xaero-fair-play-0.1.6.jar'
+url = 'https://cdn.modrinth.com/data/KG3gDWV3/versions/5wex7fto/xaero-fair-play-0.1.7.jar'
 
 [update.modrinth]
 mod-id = 'KG3gDWV3'
-version = 'oilrzUEX'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'OPTIONAL'
+version = '5wex7fto'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'qvIfYCYJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
 type = 'OPTIONAL'
